@@ -1,0 +1,16 @@
+{
+    "name": "iphone-nikitossik/api-server",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "IphoneNikitossik\\ApiServer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wequma",
+            "email": "onisuknikita769@gmail.com"
+        }
+    ],
+    "require": {}
+}

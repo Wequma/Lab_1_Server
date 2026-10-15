@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ноутбук Lenovo IdeaPad",
+      "category": "Ноутбуки",
+      "price": 28999.99,
+      "in_stock": true
+    },
+    {
+      "id": 2,
+      "name": "Мишка Logitech M185",
+      "category": "Аксесуари",
+      "price": 599.00,
+      "in_stock": true
+    },
+    {
+      "id": 3,
+      "name": "Клавіатура Keychron K2",
+      "category": "Аксесуари",
+      "price": 3499.00,
+      "in_stock": false
+    },
+    {
+      "id": 4,
+      "name": "Монітор Samsung 27\"",
+      "category": "Монітори",
+      "price": 8999.50,
+      "in_stock": true
+    }
+  ]
+}
